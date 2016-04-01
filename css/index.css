@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E3;
-	background-color: #F8B9DE;
+	color: #0000F4;
+	background-color: #48A8EB;
 }
 
 .html
@@ -1291,7 +1291,7 @@
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 235px;
+	margin-top: 199px;
 }
 
 #u271
@@ -1692,7 +1692,7 @@
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 22px;
-	margin-top: 25px;
+	margin-top: 33px;
 	position: relative;
 }
 
@@ -2427,6 +2427,12 @@
 	left: 902px;
 }
 
+#contact
+{
+	left: -100px;
+	position: relative;
+}
+
 #u789-4
 {
 	z-index: 377;
@@ -2440,7 +2446,7 @@
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 22px;
-	margin-top: 70px;
+	margin-top: 52px;
 	position: relative;
 }
 
@@ -2462,18 +2468,11 @@
 	position: relative;
 }
 
-#contact
-{
-	left: -100px;
-	margin-top: 21px;
-	position: relative;
-}
-
 #pwidgetu791
 {
 	width: 0.01px;
 	margin-left: 21px;
-	margin-top: -6px;
+	margin-top: 33px;
 }
 
 #widgetu791
