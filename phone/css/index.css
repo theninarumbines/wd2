@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F7;
-	background-color: #EBC76D;
+	color: #00001F;
+	background-color: #9051EC;
 }
 
 @-ms-viewport
@@ -31,7 +31,7 @@
 
 .html
 {
-	background-color: #7F7F7F;
+	background-color: #FFFFFF;
 }
 
 #page
